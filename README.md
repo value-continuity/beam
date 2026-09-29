@@ -35,3 +35,8 @@ BEAMは次の4要素だけで構成します。
 ## 位置づけ
 
 BEAMは Value Continuity の下に、VCDesign v2・CCP と並列に置かれます。責任境界の記述のみ VCDesign v2 を参照します。
+
+## License
+
+本リポジトリは **Creative Commons Attribution 4.0 International（CC BY 4.0）** である。[LICENSE](LICENSE) を参照。
+出典（Value Continuity Project）を表示すれば、引用・改変・再配布・商用利用を含めて自由に利用できる。
